@@ -4,8 +4,15 @@ icon: link
 
 # Important Links
 
-Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
+### **Official Website**
 
-You can publish your site and find related settings from your docs site's homepage.
+* **Website**: [www.rox.finance](https://www.rox.finance/)
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+### **Social Media Links**
+
+* **Facebook**: [https://www.facebook.com/roxfinancee](https://www.facebook.com/roxfinancee)
+* **Instagram**: [https://www.instagram.com/roxfinance/](https://www.instagram.com/roxfinance/)
+* **Twitter**: [https://x.com/roxfinance](https://x.com/roxfinance)
+* **Telegram**: [https://t.me/roxfinance](https://t.me/roxfinance)
+* **Reddit**: [https://www.reddit.com/user/roxfinance/](https://www.reddit.com/user/roxfinance/)
+* **YouTube**: [https://www.youtube.com/@Roxfinance](https://www.youtube.com/@Roxfinance)

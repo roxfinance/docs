@@ -10,8 +10,8 @@ The ROX Finance presale spans 90 days, divided into 90 stages, each offering a u
 
 **Key Details of the Presale Timeline:**
 
-1. **Start Date:** \[Insert Date]
-2. **End Date:** \[Insert Date] or until the allocation is sold out.
+1. **Start Date:** 30 Jan 2025
+2. **End Date:** 29 Apr 2025
 3. **Duration:** 90 days with one stage per day.
 
 ***
@@ -28,27 +28,6 @@ The ROX Finance presale spans 90 days, divided into 90 stages, each offering a u
 **Token Allocation Per Stage:**
 
 * Equal distribution of 1 million ROX tokens per stage for a total of 90 million tokens across all stages.
-
-***
-
-**Illustrative Timeline:**
-
-| **Stage** | **Price (USD)** | **Tokens Available** |
-| --------- | --------------- | -------------------- |
-| Stage 1   | $0.01           | 1,000,000            |
-| Stage 10  | $0.10           | 1,000,000            |
-| Stage 50  | $0.50           | 1,000,000            |
-| Stage 90  | $0.90           | 1,000,000            |
-|           |                 |                      |
-|           |                 |                      |
-|           |                 |                      |
-|           |                 |                      |
-|           |                 |                      |
-|           |                 |                      |
-|           |                 |                      |
-|           |                 |                      |
-
-***
 
 **Why Act Early?**
 
