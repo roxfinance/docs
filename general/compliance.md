@@ -1,3 +1,7 @@
+---
+icon: square-check
+---
+
 # Compliance
 
 ROX Finance is committed to operating within a robust legal framework, ensuring compliance with applicable regulations. By adhering to global standards, we build trust with users and foster long-term sustainability.

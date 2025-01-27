@@ -1,3 +1,7 @@
+---
+icon: scroll
+---
+
 # Terms of Use
 
 The Terms of Use establish the rules and responsibilities for users interacting with the ROX Finance platform. By accessing or using our services, you agree to comply with these terms.

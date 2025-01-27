@@ -1,5 +1,5 @@
 ---
-icon: globe-pointer
+icon: screwdriver-wrench
 ---
 
 # Core Features Overview
@@ -24,4 +24,3 @@ ROX Finance offers a suite of powerful features designed to empower investors an
    * Earn additional rewards through decentralized finance integrations.
 5. **Global Accessibility:**
    * Invest in tokenized assets from anywhere in the world, without barriers or intermediaries.
-

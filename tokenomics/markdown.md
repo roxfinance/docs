@@ -1,5 +1,5 @@
 ---
-icon: markdown
+icon: chart-pie
 ---
 
 # Token Allocation

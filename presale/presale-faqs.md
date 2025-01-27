@@ -1,3 +1,7 @@
+---
+icon: question
+---
+
 # Presale FAQs
 
 We’ve compiled answers to the most common questions about the ROX Finance presale to make your investment process seamless and informed.
@@ -27,4 +31,3 @@ We’ve compiled answers to the most common questions about the ROX Finance pres
 10. **How do I ensure I’m participating safely?**
 
 Always verify you are on the official presale platform: [Rox.finance](https://rox.finance/). Double-check contract addresses and avoid phishing links.
-

@@ -1,3 +1,7 @@
+---
+icon: hourglass-half
+---
+
 # Presale Stages and timeline
 
 The ROX Finance presale spans 90 days, divided into 90 stages, each offering a unique price point. This structured timeline ensures fairness while rewarding early investors with the best opportunities.

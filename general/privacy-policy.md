@@ -1,3 +1,7 @@
+---
+icon: shield-halved
+---
+
 # Privacy Policy
 
 ROX Finance is committed to protecting your personal information and maintaining transparency about how data is collected, stored, and used. This Privacy Policy outlines our approach to ensuring your data security and privacy.

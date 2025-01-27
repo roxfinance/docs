@@ -1,5 +1,5 @@
 ---
-icon: image-landscape
+icon: briefcase
 ---
 
 # Token Utility

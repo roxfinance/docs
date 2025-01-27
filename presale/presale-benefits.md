@@ -1,3 +1,7 @@
+---
+icon: gift
+---
+
 # Presale Benefits
 
 Participating in the ROX Finance presale is more than just an investment—it’s a chance to join a transformative platform at its foundation. Early investors unlock exclusive benefits, positioning themselves for significant growth as the platform evolves.

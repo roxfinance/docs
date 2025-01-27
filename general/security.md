@@ -1,3 +1,7 @@
+---
+icon: lock
+---
+
 # Security
 
 At ROX Finance, safeguarding your assets and data is a top priority. Leveraging blockchain technology and advanced encryption, the platform ensures transparency, security, and resilience against threats.

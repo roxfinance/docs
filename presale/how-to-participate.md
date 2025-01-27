@@ -1,3 +1,7 @@
+---
+icon: wrench-simple
+---
+
 # How to Participate
 
 Participating in the ROX Finance presale is quick and secure. With BNB and USDT (BEP-20) as accepted payment methods, you can seamlessly purchase ROX tokens on Binance Smart Chain.

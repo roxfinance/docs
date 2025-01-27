@@ -1,3 +1,7 @@
+---
+icon: suitcase
+---
+
 # Features Overview
 
 ROX Finance is designed with powerful features that aim to transform how real-world assets are owned, managed, and traded. While the platform is currently in development, these features are being rolled out progressively as per the roadmap. Here’s a glimpse of what’s coming:

@@ -1,3 +1,7 @@
+---
+icon: scale-balanced
+---
+
 # Disclaimer
 
 This Legal Disclaimer outlines the risks, limitations, and obligations associated with using the ROX Finance platform. By accessing our services, you acknowledge and accept the following disclaimers.

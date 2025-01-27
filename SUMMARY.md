@@ -26,16 +26,6 @@
 * [Token Utility](tokenomics/images-and-media.md)
 * [Supply and Emissions](tokenomics/images-and-media-1.md)
 
-## Roadmap
-
-* [Roadmap Overview](roadmap/roadmap-overview.md)
-* [Q1 2025](roadmap/q1-2025.md)
-* [Q2 2025](roadmap/q2-2025.md)
-* [Q3 2025](roadmap/q3-2025.md)
-* [Q3 2025](roadmap/q3-2025-1.md)
-* [Q4 2025](roadmap/q4-2025.md)
-* [Future Vision](roadmap/future-vision.md)
-
 ## Platform Features
 
 * [Features Overview](platform-features/features-overview.md)
@@ -43,6 +33,15 @@
 * [Governance](platform-features/governance.md)
 * [Lending and DeFi](platform-features/lending-and-defi.md)
 * [Real Asset Tokenization](platform-features/real-asset-tokenization.md)
+
+## Roadmap
+
+* [Roadmap Overview](roadmap/roadmap-overview.md)
+* [Q1 2025](roadmap/q1-2025.md)
+* [Q2 2025](roadmap/q2-2025.md)
+* [Q3 2025](roadmap/q3-2025-1.md)
+* [Q4 2025](roadmap/q4-2025.md)
+* [Future Vision](roadmap/future-vision.md)
 
 ## GENERAL
 

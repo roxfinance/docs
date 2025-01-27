@@ -1,3 +1,7 @@
+---
+icon: traffic-light-slow
+---
+
 # Roadmap Overview
 
 The ROX Finance roadmap outlines our journey to revolutionize real-world asset investments through blockchain technology. With clearly defined milestones, we aim to deliver innovative features, expand our ecosystem, and provide value to our investors and users.

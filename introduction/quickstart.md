@@ -1,5 +1,5 @@
 ---
-icon: bullseye-arrow
+icon: star
 ---
 
 # What is Rox Finance

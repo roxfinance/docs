@@ -1,3 +1,7 @@
+---
+icon: medal
+---
+
 # Staking and Rewards
 
 Staking is one of the core features of ROX Finance, allowing users to lock their tokens, support the ecosystem, and earn rewards. While this feature is under development and scheduled for a Q2 2025 release, here’s an overview of what to expect.

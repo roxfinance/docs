@@ -1,3 +1,7 @@
+---
+icon: box-ballot
+---
+
 # Governance
 
 Governance is at the heart of ROX Finance, empowering the community to make key decisions about the platform’s future. This feature, planned for launch in **Q2 2025**, will allow ROX token holders to actively participate in the platform's direction through the ROX DAO (Decentralized Autonomous Organization).

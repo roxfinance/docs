@@ -1,3 +1,7 @@
+---
+icon: moon-stars
+---
+
 # Future Vision
 
 ROX Finance is committed to continuous innovation, scalability, and creating a global impact. After achieving the milestones outlined for 2025, our focus will shift to long-term growth, ecosystem expansion, and solidifying our position as a leader in tokenized real-world investments.
@@ -28,4 +32,4 @@ ROX Finance is committed to continuous innovation, scalability, and creating a g
 ***
 
 **Vision Statement:**\
-&#xNAN;_"We envision a world where anyone, anywhere, can own a piece of the future through secure, decentralized, and globally accessible investments."_
+\&#xNAN;_"We envision a world where anyone, anywhere, can own a piece of the future through secure, decentralized, and globally accessible investments."_

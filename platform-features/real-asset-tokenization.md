@@ -1,3 +1,7 @@
+---
+icon: house-lock
+---
+
 # Real Asset Tokenization
 
 ROX Finance brings the power of blockchain to real-world assets, enabling fractional ownership, global access, and seamless trading. The tokenization of assets like real estate, gold, and stocks is planned for **Q2 2025**, with continuous expansion throughout the year.
@@ -31,7 +35,7 @@ ROX Finance brings the power of blockchain to real-world assets, enabling fracti
 ***
 
 **Example Use Case:**\
-&#xNAN;_"An investor in Asia can own a fraction of a New York skyscraper, a gold reserve in Africa, or shares in a multinational company, all through the ROX platform."_
+\&#xNAN;_"An investor in Asia can own a fraction of a New York skyscraper, a gold reserve in Africa, or shares in a multinational company, all through the ROX platform."_
 
 ***
 

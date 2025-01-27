@@ -1,3 +1,7 @@
+---
+icon: coins
+---
+
 # Lending and DeFi
 
 ROX Finance integrates decentralized finance (DeFi) features to unlock new earning and borrowing opportunities for users. Lending and borrowing functionalities are planned for launch in **Q3 2025**, enabling token holders to maximize the utility of their ROX tokens.

@@ -1,6 +1,6 @@
 ---
+icon: thumbs-up
 description: Why ROX Finance is the Future of Investments
-icon: globe-pointer
 ---
 
 # Why choose Rox Finance
@@ -25,4 +25,3 @@ ROX Finance empowers investors by providing access to tokenized real-world asset
 * **Innovative Tokenization:** Transform real-world assets into tradeable digital tokens.
 * **Seamless Ecosystem:** An all-in-one platform for trading, governance, staking, and lending.
 * **Early Access Benefits:** Gain exclusive opportunities during the presale to maximize your investment potential.
-

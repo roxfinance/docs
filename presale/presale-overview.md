@@ -1,3 +1,7 @@
+---
+icon: book-open
+---
+
 # Presale Overview
 
 The ROX Finance presale offers an incredible 100x growth opportunity for early investors. Spanning 90 days, the presale features daily price increments, rewarding those who secure their tokens early. Don’t miss this chance to be part of a groundbreaking platform revolutionizing real-world asset investments.

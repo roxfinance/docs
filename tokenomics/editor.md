@@ -1,5 +1,5 @@
 ---
-icon: pen-to-square
+icon: folder-open
 ---
 
 # Tokenomics Overview
@@ -11,4 +11,3 @@ The ROX token powers the entire ROX Finance ecosystem, enabling a decentralized 
 1. **Total Supply:** 1 Billion ROX Tokens.
 2. **Purpose:** ROX tokens fuel staking rewards, governance participation, lending, and access to tokenized assets.
 3. **Sustainability:** Thoughtful allocation to incentivize platform growth and ecosystem expansion.
-

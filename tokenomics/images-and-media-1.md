@@ -1,5 +1,5 @@
 ---
-icon: image-landscape
+icon: cloud-bolt
 ---
 
 # Supply and Emissions

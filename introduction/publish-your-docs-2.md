@@ -1,5 +1,5 @@
 ---
-icon: globe-pointer
+icon: gear
 ---
 
 # How Rox Works
@@ -25,5 +25,4 @@ ROX Finance bridges the gap between traditional investments and blockchain, maki
 ***
 
 **Example Use Case:**\
-&#xNAN;_"Imagine owning a fraction of a skyscraper or a share in gold with just a few clicks. Through ROX, you can tokenize these assets, trade them securely, and earn rewards—all on a decentralized platform."_
-
+\&#xNAN;_"Imagine owning a fraction of a skyscraper or a share in gold with just a few clicks. Through ROX, you can tokenize these assets, trade them securely, and earn rewards—all on a decentralized platform."_

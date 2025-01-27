@@ -1,5 +1,5 @@
 ---
-icon: globe-pointer
+icon: moon
 ---
 
 # Vision and Mission
@@ -20,4 +20,3 @@ Our mission is to tokenize real-world assets like real estate, gold, and stocks,
 * **Accessibility:** Make investing easy and borderless for everyone.
 * **Decentralization:** Empower the community through DAO governance.
 * **Innovation:** Continuously push the boundaries of asset tokenization.
-
