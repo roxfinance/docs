@@ -4,43 +4,57 @@ icon: book-open
 
 # Presale Overview
 
-The ROX Finance presale offers an incredible 100x growth opportunity for early investors. Spanning 90 days, the presale features daily price increments, rewarding those who secure their tokens early. Don’t miss this chance to be part of a groundbreaking platform revolutionizing real-world asset investments.
+The ROX Finance presale offers an extraordinary opportunity for early investors, with the potential for 100x growth. Spanning **90 days**, the presale is designed with daily price increments, rewarding those who secure their tokens early. Don’t miss this chance to participate in a groundbreaking platform revolutionizing real-world asset investments.
 
 ***
 
-**Why Participate in the Presale?**
+#### Why Participate in the Presale?
 
-1. **100x Opportunity:**
-   * Starting at $0.01 per token and ending with a $1.00 listing price.
-2. **Daily Price Increments:**
-   * Each day’s price increases by $0.01, creating urgency for early participation.
-3. **Early Rewards and Access:**
-   * Unlock staking rewards and gain exclusive early access to tokenized assets.
-4. **Support Innovation:**
-   * Be a part of building a decentralized future in asset investments.
+**100x Opportunity**
+
+* The presale starts at **$0.01** per token and concludes with a **$1.00** listing price.
+
+**Daily Price Increments**
+
+* The price increases by **$0.01 daily**, creating urgency for early participation.
+
+**Early Rewards and Access**
+
+* Unlock staking rewards and gain exclusive early access to tokenized assets.
+
+**Support Innovation**
+
+* Join the movement to build a decentralized future in real-world asset investments.
 
 ***
 
-**Presale Stages and Pricing:**
+#### Presale Stages and Pricing
 
 * **Duration:** 90 days.
-* **Price Increment:** $0.01 per stage.
+* **Daily Price Increment:** $0.01 per stage.
 * **Starting Price:** $0.01 per ROX token (Stage 1).
 * **Ending Price:** $0.90 per ROX token (Stage 90).
 
 ***
 
-**Listing Details:**
+#### Listing Details
 
 * **Public Listing Price:** $1.00 per ROX token.
-* **Expected Listing Date:** \[Insert Date].
+* **Expected Listing Date:** **9 May 2025**.
 * **Listing Platforms:** Major decentralized (DEX) and centralized exchanges (CEX).
 
 ***
 
-**Presale Highlights:**
+#### Presale Highlights
 
-* **Token Allocation:** 9% of the total supply (90 million ROX tokens).
-* **Accepted Payments:** ETH, USDT, and BNB.
-* **Start Date:** \[Insert Date].
-* **End Date:** \[Insert Date] or until allocation is sold out.
+* **Token Allocation:**
+  * **Daily Supply:** 100 million ROX tokens available each day.
+  * Any unsold tokens will be **burned** at the end of the day, ensuring scarcity.
+* **Accepted Payments:** ETH, USDT, BNB, and USDC.
+* **Primary Network:** Ethereum, ensuring robust and secure transactions.
+* **Start Date:** **30 January 2025, 00:00 UTC**.
+* **End Date:** **29 April 2025** or until the allocation is sold out.
+
+***
+
+By participating in the presale, you position yourself at the forefront of innovation, contributing to the growth of a decentralized platform that bridges traditional investments with blockchain technology.

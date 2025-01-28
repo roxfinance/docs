@@ -4,35 +4,59 @@ icon: wrench-simple
 
 # How to Participate
 
-Participating in the ROX Finance presale is quick and secure. With BNB and USDT (BEP-20) as accepted payment methods, you can seamlessly purchase ROX tokens on Binance Smart Chain.
+Participating in the ROX Finance presale is simple and straightforward. Follow these steps to secure your ROX tokens and join the future of decentralized asset investment.
 
 ***
 
-**Step-by-Step Guide:**
+#### Step 1: Set Up Your Web3 Wallet
 
-1. **Set Up a Binance Smart Chain Wallet:**
-   * Download and install a BSC-compatible wallet like **MetaMask** or **Trust Wallet**.
-   * Configure your wallet to connect to Binance Smart Chain (BSC).
-2. **Fund Your Wallet:**
-   * Add **BNB** or **USDT (BEP-20)** to your wallet.
-   * Ensure you have enough BNB to cover both the token purchase and transaction fees.
-3. **Visit the Official ROX Presale Page:**
-   * Navigate to the **ROX Finance Presale Platform**: \[Insert Link].
-   * Click “Connect Wallet” and authorize your wallet to interact with the platform.
-4. **Choose Your Token Amount:**
-   * Enter the desired number of ROX tokens you want to purchase.
-   * The platform will calculate the cost based on the current stage’s price.
-5. **Confirm and Complete the Transaction:**
-   * Review the transaction details, including the token price and total cost.
-   * Approve the transaction in your wallet and confirm the purchase.
-6. **Receive Your ROX Tokens:**
-   * Once the transaction is complete, the tokens will be transferred to your wallet.
-   * Add the ROX token contract address to your wallet to view your balance.
+1. **Choose a Reliable Wallet:**
+   * Install a Web3 wallet such as [MetaMask](https://metamask.io/), [Trust Wallet](https://trustwallet.com/), or OKX Wallet.
+2. **Secure Your Seed Phrase:**
+   * Write down your wallet’s seed phrase and store it in a safe, offline location.
+3. **Connect to the Ethereum Network:**
+   * Ensure your wallet is configured to use the Ethereum blockchain.
+4. **Fund Your Wallet:**
+   * Add sufficient **ETH** to cover your purchase and gas fees. You can also use **BNB**, **USDT**, or **USDC** as payment methods.
 
 ***
 
-**Important Notes:**
+#### Step 2: Access the ROX Presale Portal
 
-* **Daily Price Increments:** Buy early to lock in lower prices.
-* **Secure Transactions:** Verify the official presale link and contract address before participating.
-* **No Refunds:** Token purchases are final and non-reversible.
+1. Visit the official website: [ROX.Finance](https://rox.finance/).
+2. Navigate to the **Presale** section in the top menu.
+3. Click on **"Connect Wallet"** and approve the connection request in your wallet.
+
+***
+
+#### Step 3: Purchase ROX Tokens
+
+1. Confirm your wallet is connected to the Ethereum network.
+2. Choose your payment method:
+   * **ETH**
+   * **BNB**
+   * **USDT**
+   * **USDC**
+3. Enter the amount of ROX tokens you want to purchase.
+4. Click **"Buy ROX"** and approve the transaction in your wallet.
+5. A confirmation message will appear once your transaction is successful.
+
+***
+
+#### Step 4: Claim Your ROX Tokens
+
+1. After the presale concludes, return to the official website: [ROX.Finance](https://rox.finance/).
+2. Connect your wallet.
+3. Click **"Claim ROX"** to receive your tokens.
+
+> **Note:** The claim option will only be available after the presale ends on **29 April 2025**.
+
+***
+
+#### Important Tips:
+
+* Always double-check you are on the official ROX Finance website to avoid phishing scams.
+* Ensure your wallet has enough funds to cover transaction fees.
+* Unsold tokens will be **burned** daily, so secure your tokens early to maximize your benefits.
+
+By following these steps, you can seamlessly participate in the ROX Finance presale and join a community driving the future of tokenized asset investments.
