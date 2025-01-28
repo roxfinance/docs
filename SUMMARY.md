@@ -37,10 +37,10 @@
 ## Roadmap
 
 * [Roadmap Overview](roadmap/roadmap-overview.md)
-* [Q1 2025](roadmap/q1-2025.md)
-* [Q2 2025](roadmap/q2-2025.md)
-* [Q3 2025](roadmap/q3-2025-1.md)
-* [Q4 2025](roadmap/q4-2025.md)
+* [Q1 - Foundation and Presale](roadmap/q1-2025.md)
+* [Q2 Launch MVP](roadmap/q2-2025.md)
+* [Q3 Expand DeFi](roadmap/q3-2025-1.md)
+* [Q4 Full Launch](roadmap/q4-2025.md)
 * [Future Vision](roadmap/future-vision.md)
 
 ## GENERAL
