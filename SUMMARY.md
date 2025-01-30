@@ -46,6 +46,7 @@
 ## GENERAL
 
 * [Security](general/security.md)
+* [Audit Report](general/audit-report.md)
 * [Compliance](general/compliance.md)
 * [Privacy Policy](general/privacy-policy.md)
 * [Terms of Use](general/terms-of-use.md)
